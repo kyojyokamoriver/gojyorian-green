@@ -1,0 +1,3 @@
+Exported source commit: 9af9165983cab0bb1fda99a6d58f708d6f911b44
+Export date: 2026-11-19 (Asia/Tokyo)
+README and GitHub Pages workflow added for this export.
